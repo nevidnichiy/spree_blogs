@@ -1,4 +1,5 @@
 require "make_taggable"
+require 'stringex'
 
 module Spree
   class Post < Spree::Base

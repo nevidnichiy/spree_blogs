@@ -1,3 +1,5 @@
+require 'stringex'
+
 module Spree
   class Blog < Spree::Base
     extend FriendlyId
